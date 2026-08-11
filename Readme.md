@@ -13,7 +13,7 @@ The project is splitted on f a modular structure to separate the interfaces from
 - **End-to-End Pipeline:** Ingests raw text data and outputs summarized statistics (totals, counts, averages) per country.
 - **Memory Optimization:** Uses `.reserve()` to optimize memory allocation and maximize processing speed during large dataset ingestion.
 - **Modular Compilation:** Clean separation into `.h` and `.cpp` files to reduce compilation times and allow reusability (though reusability is currently constrained by the fixed structure).
-[Supported by AI guidance.]
+[I've been storngly guided by AI during this part devoted to split the main code into three modules]
 - **Execution Benchmarking:** High-precision timing via the C++ `<chrono>` library.
 ## 💻 How to Run
 
