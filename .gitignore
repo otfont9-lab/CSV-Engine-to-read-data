@@ -1,0 +1,10 @@
+#
+*.exe
+*.out
+
+
+.vscode/
+
+# Fitxers temporals del sistema operatiu
+.DS_Store
+Thumbs.db
